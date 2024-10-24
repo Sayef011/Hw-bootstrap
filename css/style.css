@@ -1,0 +1,12 @@
+.table-color{
+  background-color: #f6f6f6;
+  margin: 200px 0;
+}
+.price-head{
+  font-size: 30px;
+  font-weight: 900;
+  display: inline-block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
